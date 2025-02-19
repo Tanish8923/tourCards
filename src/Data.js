@@ -36,9 +36,9 @@ const data =[
     },
     {
         id:6,
-        name:"Jaisalpur",
+        name:"Jaisalmer",
         info: "Jaisalmer is a city in the Indian state of Rajasthan, known for its stunning sandstone architecture and its location in the heart of the Thar Desert. The city is home to several impressive palaces and fortresses, as well as unique cultural traditions and handicrafts.",
-        image:"https://media.istockphoto.com/id/861902536/photo/golden-fort.jpg?s=612x612&w=0&k=20&c=_rJ1hzKHQJWithkY1XODh_2wU6EaJxtNB-4Fu2pKuaA=",
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQgfzz4t8ii0uJgemVPWn5yPTJXZUo2MCeg&s",
         price:"33,000"
     },
     {
